@@ -5,9 +5,8 @@ Edit 1: paul@sfu.ca
 Edit 2: branch1 edit
 
 
-BR2
+SOme other cool text for you
 
 
 
-Edit in branch2
-Edit in branch1
+Pretend that this is important html that I have made your you. It is gut.
