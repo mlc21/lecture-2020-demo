@@ -1,11 +1,11 @@
 This is text file 1.
 
-Edit 1: paul@sfu.ca
+Email: paul@sfu.ca
 
-Edit 2: branch1 edit
+Hours: 1pm - 2pm Tuesday
 
 
-SOme other cool text for you
+Some other cool text for you
 
 
 
